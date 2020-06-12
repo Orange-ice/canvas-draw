@@ -6,3 +6,11 @@
 #canvas {
   display: block;
 }
+body {
+  position: relative;
+}
+#clear {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
